@@ -44,6 +44,8 @@ gem 'devise', '3.5.1'
 gem 'stripe', '1.23.0'
 # Use Figaro to hide secret keys
 gem 'figaro', '1.1.1'
+# Use paperclip for image uploads
+gem 'paperclip', '4.3.0'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
